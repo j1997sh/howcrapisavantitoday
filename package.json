@@ -1,0 +1,1 @@
+{"name":"how-crap-is-avanti-today","version":"2.0.0","private":true,"type":"module","scripts":{"update":"node update-data.js"},"dependencies":{"cheerio":"^1.0.0"},"engines":{"node":">=20"}}
